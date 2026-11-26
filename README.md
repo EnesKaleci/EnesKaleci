@@ -1,6 +1,6 @@
 # Merhaba, Ben Enes Kaleci!
 
-👋 Merhaba, ben Enes Kaleci, bir matematik öğrencisiyim. 
+👋 Merhaba, ben Enes Kaleci, matematik mezunuyum. 
 Hobim olarak C# ve web uygulamaları geliştiriyorum ve bu projeleri sizinle paylaşmaktan mutluluk duyuyorum.
 
 ## İletişim Bilgileri
@@ -13,7 +13,7 @@ Instagram: [instagram.com/eneskaleci1/](https://www.instagram.com/eneskaleci1/)
 ------------------------------------------------------------------------------
 # Hello, I'm Enes Kaleci!
 
-👋 Hello, I'm Enes Kaleci, a mathematics student. 
+👋 Hello, I am Enes Kaleci, and I am a mathematics graduate.
 My hobby is developing C# and web applications, and I'm delighted to share my projects with you.
 
 ## Contact Information
