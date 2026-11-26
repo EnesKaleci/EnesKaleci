@@ -8,7 +8,7 @@ Hobim olarak C# ve web uygulamaları geliştiriyorum ve bu projeleri sizinle pay
 LinkedIn: [linkedin.com/in/enes-kaleci-943647224/](https://www.linkedin.com/in/enes-kaleci-943647224/)  
 Instagram: [instagram.com/eneskaleci1/](https://www.instagram.com/eneskaleci1/)
 
-📫 Benimle iletişime geçmekten çekinmeyin!
+📫 Benimle iletişime geçmekten çekinmeyin! eneskaleci2@gmail.com
 
 ------------------------------------------------------------------------------
 # Hello, I'm Enes Kaleci!
@@ -21,4 +21,4 @@ My hobby is developing C# and web applications, and I'm delighted to share my pr
 LinkedIn: [linkedin.com/in/enes-kaleci-943647224/](https://www.linkedin.com/in/enes-kaleci-943647224/)  
 Instagram: [instagram.com/eneskaleci1/](https://www.instagram.com/eneskaleci1/)
 
-📫 Feel free to connect with me!
+📫 Feel free to connect with me! eneskaleci2@gmail.com
